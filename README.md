@@ -1,7 +1,7 @@
 Hi 👋 My name is Tatyana
 ========================
 
-Beginner frontend developer. I know HTML, CSS, JavaScript basics, and I continue to study programming.
+Beginner frontend developer.
 
 * 🌍  I'm based in Moscow
 * ✉️  You can contact me at [mairon.angband@gmail.com](mailto:mairon.angband@gmail.com)
