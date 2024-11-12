@@ -1,7 +1,8 @@
 Hi 👋 My name is Tatyana
 ========================
 
-Beginner frontend developer.
+Beginner frontend developer. I have skills working with HTML and CSS, as well as basic knowledge of JavaScript.
+I can set up a working environment, use a linter, and write tests using the Jest framework.
 
 * 🌍  I'm based in Moscow
 * ✉️  You can contact me at [mairon.angband@gmail.com](mailto:mairon.angband@gmail.com)
